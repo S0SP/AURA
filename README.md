@@ -6,7 +6,7 @@
 ![AURA Banner](https://img.shields.io/badge/AURA-Autonomous_AI_Immune_System-blue?style=for-the-badge)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active_Development-orange?style=flat-square)](https://github.com)
-[![Research](https://img.shields.io/badge/Research-Backed-purple?style=flat-square)](docs/research-paper.pdf)
+[![Research](https://img.shields.io/badge/Research-Backed-purple?style=flat-square)](https://docs.google.com/document/d/1nqJ_kMp2oaocKKPxn-nm7Puja8dkYONe/edit?usp=sharing&ouid=110571723391103761430&rtpof=true&sd=true)
 
 **An autonomous information immune system that detects, verifies, and counters misinformation during crises in real-time.**
 
