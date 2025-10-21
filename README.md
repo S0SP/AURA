@@ -10,7 +10,7 @@
 
 **An autonomous information immune system that detects, verifies, and counters misinformation during crises in real-time.**
 
-[📖 Documentation](docs/) • [🚀 Demo](https://aura-demo.com) • [📊 Dashboard](https://dashboard.aura-demo.com) • [🔬 Research Paper](docs/research-paper.pdf)
+[📖 Documentation](docs/) • [🚀 Demo](https://aura-demo.com) • [📊 Dashboard](https://dashboard.aura-demo.com) • [🔬 Research Paper](main\AURA_%20The%20Autonomous%20Unified%20Response%20Agent%20for%20Crisis%20Misinformation.docx)
 
 </div>
 
